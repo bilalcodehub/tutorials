@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tutorials"
+  site-url: "https://bilalcodehub.github.io/tutorials"
+  description: "tutorials"
+  repo-branch: main
+  repo-url: "https://github.com/bilalcodehub/tutorials"

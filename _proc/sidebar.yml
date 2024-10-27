@@ -1,0 +1,15 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - 00_setup_docker.ipynb
+      - 01_setup_persistent_directories_for_monailabel.ipynb
+      - 02_install_monailabel_with_docker.ipynb
+      - 03_install_cvat_with_docker.ipynb
+      - 04_nuclio_integration_with_cvat.ipynb
+      - 05_monailabel_cvat_customization_deployment.ipynb
+      - 07_Final_Configuration_Steps_for_MONAILabel_and_CVAT.ipynb
+      - 08_running_monailabel_server_for_active_learning_with_cvat.ipynb
+      - 09_accessing_cvat_tasks_and_uploading_preannotations_v2.ipynb
+      - 10_uploading_finetuned_models_to_nuclio.ipynb
